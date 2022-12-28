@@ -1,5 +1,4 @@
 # Final Capstone
+
 ​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+Adding repo for github. This is the definitive version of the project, with logo and other issues fixed.
