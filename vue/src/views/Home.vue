@@ -46,7 +46,6 @@
         <span class="font-italic">{{ foodFacts[generateRandomFact()] }}</span>
       </p>
     </div>
-    <!-- <p>Jokes about our team, bullet pointed. // Man bites dog, Zac bites backend // Katy commits grand theft auto and terrorizes the city; </p> -->
   </v-container>
 </template>
 
